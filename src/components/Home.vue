@@ -36,7 +36,7 @@
               transition="fade-transition"
             ></v-carousel-item>
           </v-carousel>
-        </div>
+        </div>z
         <div class="d-flex cart" style="padding-bottom: 30px">
           <v-col cols="12" style="margin-top: 30px" md="4">
             <v-card class="mx-auto" max-width="400">

@@ -1,14 +1,14 @@
 <template>
-    <HOme/>
+    <PArallax/>
 </template>
 
 <script>
-import HOme from './components/Home.vue'
+import PArallax from './components/Parallax.vue'
 export default {
   name: "App",
 
   components: {
-    HOme,
+    PArallax,
   },
 
   data: () => ({
